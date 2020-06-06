@@ -1,0 +1,97 @@
+.navbar
+{
+    background-color: rgb(247, 10, 148) !important;
+}
+
+.navbar-brand
+{
+    width:125px ;
+    height: 60px;
+}
+
+.nav-link
+{
+    color:white !important;
+    font-weight: bold;
+}
+
+.dropdown-item
+{
+    font-weight: bold;
+}
+
+.dropdown-item:hover
+{
+    font-size: large;
+    font-weight: bold;
+    color: white !important;
+    background-color: rgb(247, 10, 148);
+}
+.dropdown:hover>.dropdown-menu
+{
+    display: block;
+}
+
+#Logo
+{
+    font-size: 25px;
+    color: black;
+    align-items: center;
+}
+#login
+{
+    color:white;
+    font-weight: bold;
+}
+
+.head,.btn{
+    background-color:  rgb(247, 10, 148);
+   color: #fff;
+}
+.btn:hover
+{
+    color: white;
+    background-color: pink;
+}
+
+.btn-primary
+{
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    border: rgb(247, 10, 148)od;
+    background-color: rgb(247, 10, 148);
+    width: 100%;
+}
+
+.headding
+{
+    font-weight: bold;
+    color: rgb(247, 10, 148);
+    text-shadow: 2px 2px 5px pink;
+}
+.card-text{ 
+    font-weight: bold;
+}
+.footerr
+{
+    background-color: pink;
+}
+.footer div a
+{
+    font-size: 20px;
+    color:rgb(247, 10, 148); ;
+    padding: 0px 0px 0px 7px;
+}
+.row div h3,.row div p
+{
+    color: black;
+}
+.Copyrightt
+{
+    font-weight: bold;
+    padding:5px ;
+    background-color: rgb(247, 10, 148);;
+    color:black;
+}
+
